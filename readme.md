@@ -24,6 +24,7 @@ Contempla autoload manual em PHP com duas classes: `Base` e `Serve`. O autoload 
 ## Estrutura de Arquivos
 
 ├── App
+
 │   ├── Base.php
 
 │   ├── config.json
@@ -33,6 +34,7 @@ Contempla autoload manual em PHP com duas classes: `Base` e `Serve`. O autoload 
 │   ├── public
 
 │   │   └── index.php
+
 │   ├── Serve.php
 
 │   ├── server.log
