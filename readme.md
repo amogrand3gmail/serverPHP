@@ -25,11 +25,18 @@ Contempla autoload manual em PHP com duas classes: `Base` e `Serve`. O autoload 
 
 ├── App
 │   ├── Base.php
+
 │   ├── config.json
+
 │   ├── index.php
+
 │   ├── public
+
 │   │   └── index.php
 │   ├── Serve.php
+
 │   ├── server.log
+
 │   └── servidor.php
+
 └── readme.md
