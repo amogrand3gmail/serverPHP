@@ -1,0 +1,40 @@
+# Logs e cache
+server.log
+/public/cache/
+storage/
+# Se houver outros caches/tmp:
+tmp/
+cache/
+
+# Dependências e autoload
+vendor/
+tests/
+
+# Ambiente e configs sensíveis
+.env
+config.json
+
+# Se quiser manter um exemplo de config:
+# crie config.example.json e ignore config.json
+# config.json
+
+# IDEs e editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de produção/temporários
+*.log
+*.tmp
+*.bak
+*.php~
+*.inc~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Composer (opção: manter composer.lock no versionamento)
+# Caso opte por versionar o lock (recomendado), comente a linha abaixo
+composer.lock
