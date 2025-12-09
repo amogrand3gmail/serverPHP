@@ -1,5 +1,8 @@
 # README
 
+## Atenção
+- após git clone, execute **composer update**
+
 ## Visão geral
 
 Script PHP version 8.4 simples que executa o servidor embutido (PHP -S) em segundo plano. 
