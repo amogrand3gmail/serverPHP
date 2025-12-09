@@ -1,5 +1,9 @@
 # README
 
+## Comandos para executar
+
+- php Servidor.php
+- -> Uso: php servidor.php [on|off|status|set|restart|config]
 
 ## COMPOSER
 
@@ -36,22 +40,18 @@ Contempla autoload manual em PHP com duas classes: `Base` e `Serve`. O autoload 
    
 ## Estrutura de Arquivos
 
-├── App
-
-│   ├── Base.php
-
-│   ├── config.json
-
-│   ├── index.php
-
-│   ├── public
-
-│   │   └── index.php
-
-│   ├── Serve.php
-
-│   ├── server.log
-
-│   └── servidor.php
-
-└── readme.md
+├── public
+│ └── index.php
+├── src
+│ ├── Base.php
+│ ├── Calculator.php
+│ ├── Serve.php
+│ └── Showconfig.php
+├── LICENSE
+├── composer.json
+├── index.php
+├── php_S_.jpg
+├── phpunit.xml
+├── readme.md
+├── servidor.php
+├── server.log
