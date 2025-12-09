@@ -1,7 +1,17 @@
 # README
 
-## Atenção
+
+## COMPOSER
+
 - após git clone, execute **composer update**
+
+## GIT
+
+- **git add [file]**, Adiciona arquivo epositório local.
+
+- **git commit -m "mensagem descrevendo"**, Comita, o arquivo pode ir para repositorio remoto.
+
+- **git push origin main**, Envia os commits do seu ramo local main para o ramo main do repositório remoto chamado origin.
 
 ## Visão geral
 
