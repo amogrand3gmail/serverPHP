@@ -40,18 +40,32 @@ Contempla autoload manual em PHP com duas classes: `Base` e `Serve`. O autoload 
    
 ## Estrutura de Arquivos
 
-├── public
+├── public 
+
 │ └── index.php
+
 ├── src
+
 │ ├── Base.php
+
 │ ├── Calculator.php
+
 │ ├── Serve.php
+
 │ └── Showconfig.php
+
 ├── LICENSE
+
 ├── composer.json
+
 ├── index.php
+
 ├── php_S_.jpg
+
 ├── phpunit.xml
+
 ├── readme.md
+
 ├── servidor.php
+
 ├── server.log
