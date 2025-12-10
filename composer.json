@@ -1,7 +1,12 @@
 {
+"name": "ServerPHP",
+"description": "Automacao php server para linux.",
+"type": "server",
+"license": "MIT",
   "autoload": {
     "psr-4": {
       "": "src/"
     }
     }
+
 }
