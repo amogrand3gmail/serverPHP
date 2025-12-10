@@ -1,6 +1,5 @@
 {
-"name": "amo/servidor-php
-",
+"name": "amo/servidor-php",
 "description": "Automacao php server para linux.",
 "type": "serve",
 "license": "MIT",
@@ -11,5 +10,6 @@
     }
 
 }
+
 
 
